@@ -546,6 +546,11 @@ postcss@^8.4.14:
     picocolors "^1.0.0"
     source-map-js "^1.0.2"
 
+prettier-plugin-tailwindcss@^0.1.11:
+  version "0.1.11"
+  resolved "https://registry.npmjs.org/prettier-plugin-tailwindcss/-/prettier-plugin-tailwindcss-0.1.11.tgz"
+  integrity sha512-a28+1jvpIZQdZ/W97wOXb6VqI762MKE/TxMMuibMEHhyYsSxQA8Ek30KObd5kJI2HF1ldtSYprFayXJXi3pz8Q==
+
 prettier@^2.7.1:
   version "2.7.1"
   resolved "https://registry.npmjs.org/prettier/-/prettier-2.7.1.tgz"
@@ -568,6 +573,13 @@ react-dom@18.1.0:
   dependencies:
     loose-envify "^1.1.0"
     scheduler "^0.22.0"
+
+react-twitter-embed@^4.0.4:
+  version "4.0.4"
+  resolved "https://registry.yarnpkg.com/react-twitter-embed/-/react-twitter-embed-4.0.4.tgz#4a6b8354acc266876ff1110b9f648518ea20db6d"
+  integrity sha512-2JIL7qF+U62zRzpsh6SZDXNI3hRNVYf5vOZ1WRcMvwKouw+xC00PuFaD0aEp2wlyGaZ+f4x2VvX+uDadFQ3HVA==
+  dependencies:
+    scriptjs "^2.5.9"
 
 react@18.1.0:
   version "18.1.0"
@@ -617,6 +629,11 @@ scheduler@^0.22.0:
   integrity sha512-6QAm1BgQI88NPYymgGQLCZgvep4FyePDWFpXVK+zNSUgHwlqpJy8VEh8Et0KxTACS4VWwMousBElAZOH9nkkoQ==
   dependencies:
     loose-envify "^1.1.0"
+
+scriptjs@^2.5.9:
+  version "2.5.9"
+  resolved "https://registry.yarnpkg.com/scriptjs/-/scriptjs-2.5.9.tgz#343915cd2ec2ed9bfdde2b9875cd28f59394b35f"
+  integrity sha512-qGVDoreyYiP1pkQnbnFAUIS5AjenNwwQBdl7zeos9etl+hYKWahjRTfzAZZYBv5xNHx7vNKCmaLDQZ6Fr2AEXg==
 
 source-map-js@^1.0.1, source-map-js@^1.0.2:
   version "1.0.2"
