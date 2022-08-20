@@ -7,7 +7,7 @@ import Widgets from '../components/Widgets'
 
 const Home: NextPage = () => {
   return (
-    <div>
+    <div className='lg:max-w-6xl'>
       <Head>
         <title>Twitter 2.0</title>
         <link rel="icon" href="/favicon.ico" />
